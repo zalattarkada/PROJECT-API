@@ -27,7 +27,16 @@ En este  proyecto, podrás conocer todo el proceso de creación de un  widget ba
   
 ### CREACIÓN DEL WIDGET
 
-- El paso final se basó en crear el codigo necesario para filtrar el data set según las preferencias del usuario y la creación del widget que le permetiría seleccionarlas. 
+- El paso final se basó en crear el codigo necesario para filtrar el data set según las preferencias del usuario y la creación del widget que le permetiría seleccionarlas.
+   
+- Los usuarios podrán filtrar las recetas según las siguientes caracteristicas:
+  
+  - Si es apto para vegetarianos.
+  - Si es apto para veganos.
+  - Si es apto para celíacos.
+  - Si es apto para intolerantes a la lactosa.
+  - El aporte calorico del plato.
+  - El contenido proteico.
 
 
 ---

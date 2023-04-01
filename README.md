@@ -14,7 +14,7 @@ En este  proyecto, podrás conocer todo el proceso de creación de un  widget ba
 
 
 ## PASOS DEL PROYECTO
----
+
 
 ### API REQUEST
 

@@ -35,7 +35,7 @@ En este  proyecto, podrás conocer todo el proceso de creación de un  widget ba
   - Si es apto para veganos.
   - Si es apto para celíacos.
   - Si es apto para intolerantes a la lactosa.
-  - El aporte calorico del plato.
+  - El aporte calórico del plato.
   - El contenido proteico.
 
 

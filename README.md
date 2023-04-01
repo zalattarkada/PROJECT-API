@@ -2,9 +2,11 @@
 
 ---
 <p align="center">
-![](images/MiniProjectAPI.png)
+
+    ![](images/MiniProjectAPI.png)
+
 <p>
----
+
 
 En este  proyecto, podrás conocer todo el proceso de creación de un  widget basado en la API de Spoonacular. Esta API cuenta con una enorme base de datos de miles de recetas, y nuestro widget ayudará al usuario a encontrar la receta perfecta según sus necesidades y preferencias nutricionales. https://spoonacular.com/food-api.
 

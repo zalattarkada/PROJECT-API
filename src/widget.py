@@ -1,5 +1,5 @@
 
-def recommend_diet(df, vegetarian=False, vegan=False, dairyfree=False, glutenfree=False, 
+def recommend_diet(df, vegetarian=True, vegan=True, dairyfree=True, glutenfree=True, 
                    time_range=None, kcal_range=None, protein_range=None):
     '''creamos un filtro de restricciones dietarias'''
 
